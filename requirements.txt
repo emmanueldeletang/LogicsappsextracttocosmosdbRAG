@@ -1,0 +1,7 @@
+python-dotenv
+openai
+azure-cosmos
+config 
+streamlit
+python-magic
+azure-storage-blob
